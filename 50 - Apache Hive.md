@@ -1,4 +1,4 @@
-# 1.Hive Beeline Client
+`# 1.Hive Beeline Client
 In this tutorial, we will verify the connection to Hive using Beeline client
 
 
